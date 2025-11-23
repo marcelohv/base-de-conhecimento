@@ -1,0 +1,652 @@
+[
+  {
+    "nome": "Clube de Regatas do Flamengo",
+    "descricao": "Considerado o clube com a maior torcida do Brasil, o Flamengo é conhecido por suas inúmeras conquistas nacionais e internacionais, incluindo múltiplas Copas Libertadores e Campeonatos Brasileiros.",
+    "data_criacao": "1895",
+    "link": "https://www.flamengo.com.br",
+    "tags": [
+      "Rio de Janeiro",
+      "Maior Torcida",
+      "Copa Libertadores",
+      "Grandeza Nacional",
+      "Futebol Profissional"
+    ]
+  },
+  {
+    "nome": "Sociedade Esportiva Palmeiras",
+    "descricao": "Um dos clubes mais vitoriosos do Brasil, conhecido por ser o Decacampeão Brasileiro. Nos anos recentes, estabeleceu uma forte hegemonia em nível continental, conquistando títulos da Libertadores.",
+    "data_criacao": "1914",
+    "link": "https://www.palmeiras.com.br",
+    "tags": [
+      "São Paulo",
+      "Decacampeão",
+      "SEP",
+      "Hegemonia Atual",
+      "Copa do Brasil"
+    ]
+  },
+  {
+    "nome": "Sport Club Corinthians Paulista",
+    "descricao": "Conhecido como o 'Time do Povo', o Corinthians possui uma das maiores torcidas do país. Conquistou a Copa Libertadores e o Mundial de Clubes da FIFA em 2012 de forma invicta.",
+    "data_criacao": "1910",
+    "link": "https://www.corinthians.com.br",
+    "tags": [
+      "São Paulo",
+      "Timão",
+      "Mundial FIFA",
+      "Fiel Torcida",
+      "Derby Paulista"
+    ]
+  },
+  {
+    "nome": "São Paulo Futebol Clube",
+    "descricao": "O Tricolor Paulista é um dos poucos times brasileiros a deter o feito de ser tricampeão da Copa Libertadores de forma consecutiva (1992, 1993, 2005) e possui seis títulos brasileiros.",
+    "data_criacao": "1930",
+    "link": "https://www.saopaulofc.net",
+    "tags": [
+      "São Paulo",
+      "Tricolor",
+      "Hexacampeão Brasileiro",
+      "Copa Sul-Americana",
+      "Estádio do Morumbi"
+    ]
+  },
+  {
+    "nome": "Santos Futebol Clube",
+    "descricao": "Famoso por ser o time onde Pelé, o Rei do Futebol, iniciou e marcou época. O Santos é reconhecido por seu futebol ofensivo e por ser um grande celeiro de craques.",
+    "data_criacao": "1912",
+    "link": "https://www.santosfc.com.br",
+    "tags": [
+      "São Paulo",
+      "Rei Pelé",
+      "Celeiro de Craques",
+      "Copa Libertadores",
+      "Praiano"
+    ]
+  },
+  {
+    "nome": "Clube Atlético Mineiro",
+    "descricao": "Apelidado de 'Galo', é um dos grandes de Minas Gerais. Possui uma torcida apaixonada e conquistas importantes como o Campeonato Brasileiro e a Copa Libertadores da América.",
+    "data_criacao": "1908",
+    "link": "https://www.atletico.com.br",
+    "tags": [
+      "Minas Gerais",
+      "Galo",
+      "Libertadores 2013",
+      "Arena MRV",
+      "Futebol Profissional"
+    ]
+  },
+  {
+    "nome": "Cruzeiro Esporte Clube",
+    "descricao": "Conhecido como a 'Raposa', o Cruzeiro é o único clube pentacampeão da Copa do Brasil, o maior vencedor desta competição. Possui forte rivalidade com o Atlético Mineiro.",
+    "data_criacao": "1921",
+    "link": "https://www.cruzeiro.com.br",
+    "tags": [
+      "Minas Gerais",
+      "Raposa",
+      "Penta Copa do Brasil",
+      "Série A",
+      "Futebol Mineiro"
+    ]
+  },
+  {
+    "nome": "Grêmio Foot-Ball Porto Alegrense",
+    "descricao": "O 'Imortal Tricolor' é conhecido por sua tradição copeira, sendo um dos clubes mais vencedores da Copa do Brasil e da Libertadores. Possui grande rivalidade com o Internacional (GreNal).",
+    "data_criacao": "1903",
+    "link": "https://gremio.net",
+    "tags": [
+      "Rio Grande do Sul",
+      "Copeiro",
+      "Tricolor Gaúcho",
+      "Arena do Grêmio",
+      "Rivalidade GreNal"
+    ]
+  },
+  {
+    "nome": "Sport Club Internacional",
+    "descricao": "Apelidado de 'Colorado', o Internacional é o único clube gaúcho a conquistar a Copa do Mundo de Clubes da FIFA (2006). Mantém intensa rivalidade com o Grêmio.",
+    "data_criacao": "1909",
+    "link": "https://www.internacional.com.br",
+    "tags": [
+      "Rio Grande do Sul",
+      "Colorado",
+      "Mundial de Clubes",
+      "Gigante da Beira-Rio",
+      "Tradição Gaúcha"
+    ]
+  },
+  {
+    "nome": "Fluminense Football Club",
+    "descricao": "Clube histórico do Rio de Janeiro, campeão da Copa Libertadores em 2023. É conhecido por ter uma das camisas mais tradicionais e um estilo de jogo característico.",
+    "data_criacao": "1902",
+    "link": "https://www.fluminense.com.br",
+    "tags": [
+      "Rio de Janeiro",
+      "Tricolor Carioca",
+      "Libertadores 2023",
+      "Clube de Elite",
+      "Estádio Maracanã"
+    ]
+  },
+  {
+    "nome": "Club de Regatas Vasco da Gama",
+    "descricao": "Um dos gigantes cariocas, o Vasco possui grande história ligada à luta contra o preconceito racial no futebol. Conhecido como 'Gigante da Colina', foi campeão da Libertadores em 1998.",
+    "data_criacao": "1898",
+    "link": "https://vasco.com.br",
+    "tags": [
+      "Rio de Janeiro",
+      "Gigante da Colina",
+      "Raízes Históricas",
+      "São Januário",
+      "Futebol Carioca"
+    ]
+  },
+  {
+    "nome": "Botafogo de Futebol e Regatas",
+    "descricao": "O clube da 'Estrela Solitária' é notável por ter revelado grandes craques, como Garrincha e Didi. É um dos quatro grandes do Rio de Janeiro, com uma história centenária.",
+    "data_criacao": "1894",
+    "link": "https://www.botafogo.com.br",
+    "tags": [
+      "Rio de Janeiro",
+      "Estrela Solitária",
+      "Centenário",
+      "Gestão SAF",
+      "Tradição"
+    ]
+  },
+  {
+    "nome": "Club Athletico Paranaense",
+    "descricao": "Conhecido como 'Furacão', o Athletico é um clube moderno e inovador no cenário nacional, sendo bicampeão da Copa Sul-Americana. Manda seus jogos na Arena da Baixada.",
+    "data_criacao": "1924",
+    "link": "https://www.athleticoparanaense.com.br",
+    "tags": [
+      "Paraná",
+      "Furacão",
+      "Arena da Baixada",
+      "Copa Sul-Americana",
+      "Modernidade"
+    ]
+  },
+  {
+    "nome": "Coritiba Foot Ball Club",
+    "descricao": "Apelidado de 'Coxa Branca', o Coritiba é um dos clubes mais antigos do Paraná e foi o primeiro clube do estado a conquistar o Campeonato Brasileiro (1985).",
+    "data_criacao": "1909",
+    "link": "https://www.coritiba.com.br",
+    "tags": [
+      "Paraná",
+      "Coxa Branca",
+      "Campeão Brasileiro 1985",
+      "Couto Pereira",
+      "Rivalidade Atletiba"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Bahia",
+    "descricao": "O 'Esquadrão de Aço' é um dos clubes mais populares do Nordeste, bicampeão brasileiro. Recentemente, passou por uma transição para se tornar uma SAF, parte do Grupo City.",
+    "data_criacao": "1931",
+    "link": "https://www.esporteclubebahia.com.br",
+    "tags": [
+      "Bahia",
+      "Nordeste",
+      "Bicampeão Brasileiro",
+      "SAF Grupo City",
+      "Fonte Nova"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Vitória",
+    "descricao": "Conhecido como 'Leão da Barra', o Vitória é o grande rival do Bahia e um dos clubes mais tradicionais do estado. Recentemente tem alternado entre as divisões nacionais.",
+    "data_criacao": "1899",
+    "link": "https://www.ecvitoria.com.br",
+    "tags": [
+      "Bahia",
+      "Leão da Barra",
+      "Rivalidade Ba-Vi",
+      "Futebol Nordestino",
+      "Estádio Barradão"
+    ]
+  },
+  {
+    "nome": "Fortaleza Esporte Clube",
+    "descricao": "Um dos clubes nordestinos de maior ascensão nos últimos anos, o 'Leão do Pici' consolidou-se na Série A e tem participado frequentemente de competições continentais.",
+    "data_criacao": "1918",
+    "link": "https://fortaleza1918.com.br",
+    "tags": [
+      "Ceará",
+      "Ascensão Recente",
+      "Copa Sul-Americana",
+      "Série A",
+      "Tradição Cearense"
+    ]
+  },
+  {
+    "nome": "Ceará Sporting Club",
+    "descricao": "Apelidado de 'Vozão', o Ceará possui grande tradição no Nordeste e forte rivalidade local com o Fortaleza. É conhecido por sua torcida fiel e histórica.",
+    "data_criacao": "1914",
+    "link": "https://www.cearasc.com",
+    "tags": [
+      "Ceará",
+      "Vozão",
+      "Rivalidade Clássico-Rei",
+      "Futebol Nordestino",
+      "Série B"
+    ]
+  },
+  {
+    "nome": "Sport Club do Recife",
+    "descricao": "O 'Leão da Ilha' é um dos principais clubes de Pernambuco, com uma grande base de torcedores. Possui um título brasileiro (1987) reconhecido pela CBF.",
+    "data_criacao": "1905",
+    "link": "https://sportrecife.com.br",
+    "tags": [
+      "Pernambuco",
+      "Leão da Ilha",
+      "Campeão Brasileiro 1987",
+      "Copa do Nordeste",
+      "Futebol Pernambucano"
+    ]
+  },
+  {
+    "nome": "Goiás Esporte Clube",
+    "descricao": "O 'Esmeraldino' é o clube mais tradicional e vitorioso do estado de Goiás. É um constante representante da região Centro-Oeste nas principais divisões nacionais.",
+    "data_criacao": "1943",
+    "link": "https://www.goiasec.com.br",
+    "tags": [
+      "Goiás",
+      "Centro-Oeste",
+      "Esmeraldino",
+      "Estádio da Serrinha",
+      "Tradição Goiana"
+    ]
+  },
+  {
+    "nome": "Atlético Clube Goianiense",
+    "descricao": "Conhecido como 'Dragão', é um dos grandes clubes de Goiás. Possui diversas conquistas estaduais e tem se mantido competitivo no cenário nacional nos últimos anos.",
+    "data_criacao": "1937",
+    "link": "https://www.atleticogoianiense.com.br",
+    "tags": [
+      "Goiás",
+      "Dragão",
+      "Rivalidade Goiana",
+      "Futebol Profissional",
+      "Série A"
+    ]
+  },
+  {
+    "nome": "Red Bull Bragantino",
+    "descricao": "Resultado da parceria entre o Bragantino e a empresa Red Bull. Representa um modelo de gestão empresarial focado em desenvolvimento de jovens talentos e performance.",
+    "data_criacao": "1928",
+    "link": "https://redbullbragantino.com.br",
+    "tags": [
+      "São Paulo",
+      "Red Bull",
+      "Gestão Empresarial",
+      "Desenvolvimento de Atletas",
+      "Série A"
+    ]
+  },
+  {
+    "nome": "Cuiabá Esporte Clube",
+    "descricao": "O 'Dourado' é um dos clubes mais jovens a alcançar a elite do futebol brasileiro e se consolidar na Série A. Representante único do Mato Grosso na primeira divisão.",
+    "data_criacao": "2001",
+    "link": "https://www.cuiabaesporteclube.com.br",
+    "tags": [
+      "Mato Grosso",
+      "Clube Jovem",
+      "Série A",
+      "Centro-Oeste",
+      "Ascensão Rápida"
+    ]
+  },
+  {
+    "nome": "América Futebol Clube (MG)",
+    "descricao": "Apelidado de 'Coelho', o América é conhecido por ser um clube formador de talentos e por sua consistência no cenário mineiro, sendo tricampeão brasileiro da Série B.",
+    "data_criacao": "1912",
+    "link": "https://americafc.com.br",
+    "tags": [
+      "Minas Gerais",
+      "Coelho",
+      "Formador de Talentos",
+      "Tradição Mineira",
+      "Série B"
+    ]
+  },
+  {
+    "nome": "Paysandu Sport Club",
+    "descricao": "Conhecido como 'Papão da Curuzu', o Paysandu é o maior e mais popular clube da Região Norte do Brasil, detentor de um título da Copa dos Campeões e participação histórica na Libertadores.",
+    "data_criacao": "1914",
+    "link": "https://www.paysandu.com.br",
+    "tags": [
+      "Pará",
+      "Região Norte",
+      "Copa Verde",
+      "Papão da Curuzu",
+      "Futebol Paraense"
+    ]
+  },
+  {
+    "nome": "Avaí Futebol Clube",
+    "descricao": "Tradicional clube catarinense, conhecido como Leão da Ilha, com várias participações na Série A do Campeonato Brasileiro. Detém o recorde de títulos estaduais em Santa Catarina.",
+    "data_criacao": "1923",
+    "link": "https://www.avai.com.br",
+    "tags": [
+      "Santa Catarina",
+      "Série B",
+      "Leão da Ilha",
+      "Rivalidade",
+      "Títulos Estaduais"
+    ]
+  },
+  {
+    "nome": "Figueirense Futebol Clube",
+    "descricao": "Um dos principais clubes de Santa Catarina, sediado em Florianópolis. É conhecido por ter chegado à final da Copa do Brasil em 2007 e mantém uma intensa rivalidade com o Avaí.",
+    "data_criacao": "1921",
+    "link": "https://www.figueirense.com.br",
+    "tags": [
+      "Santa Catarina",
+      "Clássico",
+      "Alvinegro",
+      "Copa do Brasil",
+      "Estádio Orlando Scarpelli"
+    ]
+  },
+  {
+    "nome": "Associação Chapecoense de Futebol",
+    "descricao": "Clube que ganhou projeção mundial após a tragédia aérea de 2016, mas que é símbolo de reconstrução e garra. Vencedor da Copa Sul-Americana de 2016 (título honorífico).",
+    "data_criacao": "1973",
+    "link": "https://www.chapecoense.com",
+    "tags": [
+      "Santa Catarina",
+      "Série B",
+      "Condá",
+      "Reconstrução",
+      "Copa Sul-Americana"
+    ]
+  },
+  {
+    "nome": "Associação Atlética Ponte Preta",
+    "descricao": "A 'Macaca', sediada em Campinas, é o clube mais antigo do Brasil em atividade contínua. Possui uma das torcidas mais apaixonadas do interior paulista e grande rivalidade com o Guarani.",
+    "data_criacao": "1900",
+    "link": "https://www.pontepreta.com.br",
+    "tags": [
+      "São Paulo",
+      "Interior Paulista",
+      "Macaca",
+      "Clássico Campineiro",
+      "Centenário"
+    ]
+  },
+  {
+    "nome": "Guarani Futebol Clube",
+    "descricao": "Único clube do interior paulista a conquistar o Campeonato Brasileiro da Série A (1978). Mantém sua sede em Campinas e disputa o dérbi mais tradicional do interior de São Paulo contra a Ponte Preta.",
+    "data_criacao": "1911",
+    "link": "https://www.guaranifc.com.br",
+    "tags": [
+      "São Paulo",
+      "Campeão Brasileiro",
+      "Bugre",
+      "Série B",
+      "Campinas"
+    ]
+  },
+  {
+    "nome": "Esporte Clube Juventude",
+    "descricao": "Clube gaúcho de Caxias do Sul. Conquistou a Copa do Brasil em 1999, sendo um marco na história de clubes do interior do Rio Grande do Sul. Manda seus jogos no Estádio Alfredo Jaconi.",
+    "data_criacao": "1913",
+    "link": "https://www.juventude.com.br",
+    "tags": [
+      "Rio Grande do Sul",
+      "Caxias do Sul",
+      "Copa do Brasil 1999",
+      "Papada",
+      "Serra Gaúcha"
+    ]
+  },
+  {
+    "nome": "Criciúma Esporte Clube",
+    "descricao": "Único time catarinense a vencer a Copa do Brasil (1991). O Tigre, como é conhecido, é uma força regional e frequentemente participa das Séries A e B do Campeonato Brasileiro.",
+    "data_criacao": "1947",
+    "link": "https://www.criciuma.com.br",
+    "tags": [
+      "Santa Catarina",
+      "Copa do Brasil",
+      "Tigre",
+      "Amarelo e Preto",
+      "Sul do Estado"
+    ]
+  },
+  {
+    "nome": "Clube Náutico Capibaribe",
+    "descricao": "Um dos três grandes do Recife, conhecido como Timbu. É o único tricampeão consecutivo de Pernambuco (seis vezes). Possui rivalidade histórica com Sport e Santa Cruz.",
+    "data_criacao": "1901",
+    "link": "https://www.nautico-pe.com.br",
+    "tags": [
+      "Pernambuco",
+      "Timbu",
+      "Hexa Estadual",
+      "Recife",
+      "Clássico das Emoções"
+    ]
+  },
+  {
+    "nome": "Santa Cruz Futebol Clube",
+    "descricao": "O 'Mais Querido' de Pernambuco, detentor de uma das maiores e mais apaixonadas torcidas do Nordeste. Conquistou a Copa do Nordeste em 2016. Seu mascote é a Cobra Coral.",
+    "data_criacao": "1914",
+    "link": "https://www.santacruzpe.com.br",
+    "tags": [
+      "Pernambuco",
+      "Cobra Coral",
+      "Futebol Nordestino",
+      "Torcida",
+      "Série C"
+    ]
+  },
+  {
+    "nome": "Clube do Remo",
+    "descricao": "O 'Leão Azul' do Pará. É um dos clubes mais tradicionais do Norte do Brasil e possui o Clássico Rex, uma das maiores rivalidades do país, contra o Paysandu.",
+    "data_criacao": "1905",
+    "link": "https://www.clubedoremo.com.br",
+    "tags": [
+      "Pará",
+      "Leão Azul",
+      "Clássico Rex",
+      "Futebol do Norte",
+      "Belém"
+    ]
+  },
+  {
+    "nome": "Vila Nova Futebol Clube",
+    "descricao": "Um dos principais clubes de Goiás, sediado em Goiânia. Conhecido como o Tigre, é frequentemente um protagonista na Série B e tem forte rivalidade local com Goiás e Atlético-GO.",
+    "data_criacao": "1943",
+    "link": "https://www.vilanovafc.com.br",
+    "tags": [
+      "Goiás",
+      "Centro-Oeste",
+      "Tigre",
+      "Série B",
+      "Goiânia"
+    ]
+  },
+  {
+    "nome": "Sampaio Corrêa Futebol Clube",
+    "descricao": "Time maranhense conhecido como a 'Bolívia Querida'. Único clube do Brasil a conquistar a Série B, C e D do Campeonato Brasileiro. Tem base forte na Copa do Nordeste.",
+    "data_criacao": "1923",
+    "link": "https://www.sampaio.com.br",
+    "tags": [
+      "Maranhão",
+      "Bolívia Querida",
+      "Série B",
+      "Copa do Nordeste",
+      "Três Séries Nacionais"
+    ]
+  },
+  {
+    "nome": "ABC Futebol Clube",
+    "descricao": "Clube de Natal e detentor do recorde mundial de maior número de títulos estaduais seguidos (dez). O 'Mais Querido' do Rio Grande do Norte e grande rival do América-RN.",
+    "data_criacao": "1915",
+    "link": "https://www.abcfc.com.br",
+    "tags": [
+      "Rio Grande do Norte",
+      "Recorde Mundial",
+      "Potiguar",
+      "Natal",
+      "Série C"
+    ]
+  },
+  {
+    "nome": "Centro Sportivo Alagoano (CSA)",
+    "descricao": "O maior campeão estadual de Alagoas e vice-campeão da Copa Conmebol de 1999. Tem sua sede em Maceió e mantém rivalidade histórica com o CRB.",
+    "data_criacao": "1913",
+    "link": "https://www.csaoficial.com.br",
+    "tags": [
+      "Alagoas",
+      "Maceió",
+      "Conmebol 1999",
+      "Clássico das Multidões",
+      "Série C"
+    ]
+  },
+  {
+    "nome": "Clube de Regatas Brasil (CRB)",
+    "descricao": "Tradicional clube alagoano sediado em Maceió, conhecido como Galo de Campina. É uma força constante nas divisões nacionais, sendo um dos poucos clubes nordestinos com mais de 100 anos de história.",
+    "data_criacao": "1912",
+    "link": "https://www.crb.esp.br",
+    "tags": [
+      "Alagoas",
+      "Galo de Campina",
+      "Série B",
+      "Futebol Nordestino",
+      "Maceió"
+    ]
+  },
+  {
+    "nome": "Botafogo Futebol Clube (SP)",
+    "descricao": "O Pantera, um dos clubes mais importantes do interior paulista, sediado em Ribeirão Preto. É reconhecido por sua base forte e por revelar grandes talentos do futebol nacional.",
+    "data_criacao": "1918",
+    "link": "https://www.botafogofc.com.br",
+    "tags": [
+      "São Paulo",
+      "Ribeirão Preto",
+      "Pantera",
+      "Interior Paulista",
+      "Série B"
+    ]
+  },
+  {
+    "nome": "Londrina Esporte Clube",
+    "descricao": "Clube paranaense conhecido como Tubarão. Foi campeão brasileiro da Série B em 1980 e é um dos clubes de maior sucesso fora de Curitiba no estado do Paraná.",
+    "data_criacao": "1937",
+    "link": "https://www.londrinaesporteclube.com.br",
+    "tags": [
+      "Paraná",
+      "Tubarão",
+      "Série B",
+      "Interior Paranaense",
+      "Estádio do Café"
+    ]
+  },
+  {
+    "nome": "Operário Ferroviário Esporte Clube",
+    "descricao": "Clube sediado em Ponta Grossa, conhecido como Fantasma. Ganhou notoriedade recente por sua ascensão meteórica das divisões inferiores à Série B do Campeonato Brasileiro.",
+    "data_criacao": "1912",
+    "link": "https://www.operarioferroviario.com.br",
+    "tags": [
+      "Paraná",
+      "Fantasma",
+      "Série B",
+      "Pontagrossense",
+      "Ascensão"
+    ]
+  },
+  {
+    "nome": "Brusque Futebol Clube",
+    "descricao": "Clube catarinense que se destacou na última década por suas conquistas estaduais e por ser presença constante nas Séries C e B, representando a região do Vale do Itajaí.",
+    "data_criacao": "1987",
+    "link": "https://www.brusquefc.com.br",
+    "tags": [
+      "Santa Catarina",
+      "Vale do Itajaí",
+      "Série B",
+      "Organização",
+      "Copa Santa Catarina"
+    ]
+  },
+  {
+    "nome": "Ferroviário Atlético Clube",
+    "descricao": "O 'Ferrão', de Fortaleza, é um dos clubes tradicionais do Ceará. Conquistou o Campeonato Brasileiro Série D em 2018 e a Copa do Nordeste em 2018, sendo um dos times de força na região.",
+    "data_criacao": "1933",
+    "link": "https://www.ferroviario.com.br",
+    "tags": [
+      "Ceará",
+      "Fortaleza",
+      "Copa do Nordeste",
+      "Série D",
+      "Tricolor da Barra"
+    ]
+  },
+  {
+    "nome": "Associação Desportiva Confiança",
+    "descricao": "O Dragão do Bairro Industrial é o principal clube de Sergipe, sediado em Aracaju. Tem forte presença na Copa do Nordeste e nas divisões nacionais, mantendo rivalidade com o Sergipe.",
+    "data_criacao": "1936",
+    "link": "https://www.adconfianca.com.br",
+    "tags": [
+      "Sergipe",
+      "Aracaju",
+      "Dragão",
+      "Futebol Nordestino",
+      "Série C"
+    ]
+  },
+  {
+    "nome": "América Futebol Clube (RN)",
+    "descricao": "O 'Mecão' de Natal, é um dos maiores campeões do Rio Grande do Norte. Possui o estádio Arena das Dunas em concessão e forte rivalidade com o ABC.",
+    "data_criacao": "1915",
+    "link": "https://www.americadenatal.com.br",
+    "tags": [
+      "Rio Grande do Norte",
+      "Mecão",
+      "Natal",
+      "Arena das Dunas",
+      "Série D"
+    ]
+  },
+  {
+    "nome": "Associação Portuguesa de Desportos",
+    "descricao": "A 'Lusa' de São Paulo é um clube histórico, lembrado por suas campanhas notáveis no Campeonato Brasileiro e Paulista, notavelmente os vice-campeonatos de 1996 e 1936.",
+    "data_criacao": "1920",
+    "link": "https://www.portuguesadesportos.com.br",
+    "tags": [
+      "São Paulo",
+      "Histórico",
+      "Lusa",
+      "Canindé",
+      "Tradição"
+    ]
+  },
+  {
+    "nome": "Ituano Futebol Clube",
+    "descricao": "Clube de Itu, interior de São Paulo. Conquistou duas vezes o Campeonato Paulista (2002 e 2014) sob o comando de Juninho Paulista. É conhecido pelo modelo de gestão focado em categorias de base.",
+    "data_criacao": "1947",
+    "link": "https://www.ituanofc.com",
+    "tags": [
+      "São Paulo",
+      "Interior Paulista",
+      "Campeão Paulista",
+      "Gestão",
+      "Série B"
+    ]
+  },
+  {
+    "nome": "Bangu Atlético Clube",
+    "descricao": "Clube centenário do Rio de Janeiro, com sede no bairro de Bangu. Foi vice-campeão brasileiro em 1985 e é reconhecido por sua tradição no futebol carioca.",
+    "data_criacao": "1904",
+    "link": "https://www.bangu-ac.com.br",
+    "tags": [
+      "Rio de Janeiro",
+      "Centenário",
+      "Vice-Campeão Brasileiro",
+      "Tradição",
+      "Futebol Carioca"
+    ]
+  }
+]
